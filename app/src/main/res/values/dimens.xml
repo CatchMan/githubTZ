@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_card_view">10dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="image_profile_size">80dp</dimen>
+    <dimen name="card_text_size">19sp</dimen>
+    <dimen name="image_profile_size_bigger">140dp</dimen>
+    <dimen name="margin_medium">34dp</dimen>
+</resources>
